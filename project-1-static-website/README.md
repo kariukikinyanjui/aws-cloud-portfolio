@@ -11,7 +11,9 @@ The infrastructure is defined as code using **Terraform** and deployed locally u
 - **AWS WAF**: Web Application Firewall to protect against common exploits.
 - **AWS ACM**: Certificate Manager for SSL/TLS termination.
 - **Amazon Route 53**: DNS management for custom domain routing.
-![Architecture](https://drive.google.com/file/d/1AQp6pbJl2y0cQqR8b0vKa3gkjPOf95vr/view?usp=sharing)
+
+![Architectural diagram](images/static_architecture.drawio.png)
+
 ## Technology Stack
 - **IaC**: Terraform
 - **Cloud Simulation**: LocalStack
