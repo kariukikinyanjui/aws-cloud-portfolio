@@ -1,6 +1,7 @@
 # LocalStack / Docker
 volume/
 .env
+env/
 
 # Terraform
 .terraform/
