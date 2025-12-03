@@ -12,7 +12,7 @@ The infrastructure is defined as code using **Terraform** and deployed locally u
 - **AWS ACM**: Certificate Manager for SSL/TLS termination.
 - **Amazon Route 53**: DNS management for custom domain routing.
 
-![Architectural diagram](website/images/static%20architecture.drawio.png)
+![Architectural diagram](website/images/static_architecture.drawio.png)
 
 ## Technology Stack
 - **IaC**: Terraform
